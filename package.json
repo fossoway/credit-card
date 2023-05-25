@@ -1,0 +1,19 @@
+{
+  "name": "credit_card-1lvl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "masked-text-field": "^1.0.1",
+    "parcel": "^2.8.3",
+    "redom": "^3.29.1"
+  },
+  "devDependencies": {
+    "parcel": "^9.5.0",
+  },
+}
